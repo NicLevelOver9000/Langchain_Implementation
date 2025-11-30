@@ -8,7 +8,7 @@ No credit information or billing account required.
 #How to run :
 
 -> python -m venv venv
--> venv\Scripts\activate  # Windows
+-> venv\Scripts\activate.bat in cmd terminal
 
 -> pip install -r requirements.txt
 -> python main.py
